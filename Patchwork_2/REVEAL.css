@@ -1,0 +1,245 @@
+body{
+
+
+	width:1000px;
+	margin:auto;
+	display:block;
+	background-color:black;
+}
+
+button{
+
+	border:black 2px solid;
+	font-weight:900;
+	font-size:20px;
+	margin:auto;
+	display:block;
+	margin-top:30px;
+}
+
+/*-----------------MAIN PIC STYLE------------------------------------*/
+#puzzle{
+
+	width:1000px;
+	height:600px;
+	border:black 3px solid;
+	position:fixed;
+	top:0px;
+
+}
+
+#hiddenPic{
+
+	width:1000px;
+	height:600px;
+	position:fixed;
+	top:0px;
+}
+
+#PicHidey{
+
+	width:1003px;
+	height:603px;
+	position:fixed;
+	top:0px;
+}
+
+
+/*-----------------Block Style---class these to reduce code-------------------------------*/
+#a1{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:463px;
+
+}
+
+#a2{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:663px;
+}
+
+#a3{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:863px;
+}
+
+#a4{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:1063px;
+}
+
+#a5{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:1263px;
+}
+
+#b1{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:463px;
+	top:203px;
+}
+
+#b2{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:663px;
+	top:203px;
+}
+
+#b3{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:863px;
+	top:203px;
+}
+
+#b4{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:1063px;
+	top:203px;
+}
+
+#b5{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:1263px;
+	top:203px;
+}
+
+#c1{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:463px;
+	top:403px;	
+}
+
+#c2{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:663px;
+	top:403px;
+}
+
+#c3{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:863px;
+	top:403px;
+}
+
+#c4{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:1063px;
+	top:403px;
+}
+
+#c5{
+
+	height:200px;
+	width:200px;
+	background-color:black;
+	position:fixed;
+	left:1263px;
+	top:403px;
+}
+/*-----------------Bottom container style-----------------------------------*/
+#bottomView{
+
+	width:1000px;
+	height:380px;
+	border:white 3px solid;
+	margin-top:620px;
+
+
+}
+
+#iot{
+
+	margin-left:20px;
+}
+
+#textz{
+
+	font-size: 26px;
+	color:white;
+	font-weight:900;
+	margin-left:30px;
+}
+
+
+/*-----------------LIST STYLE------------------------------------*/
+ul{
+
+	margin-top:40px;
+	list-style-type:none;
+
+}
+
+li{
+
+	display:inline;
+	margin:11px;
+
+
+}
+a{
+	text-decoration:none;
+	color:white;
+	font-size:30px;
+	font-weight:900;
+
+}
+
+a:hover{
+
+	color:#58E039;
+}
